@@ -11,5 +11,3 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=FrogDog56&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrogDog56&theme=radical)
-
-![](https://visitor-badge.laobi.icu/badge?page_id=FrogDog56.Hecks.exe)
