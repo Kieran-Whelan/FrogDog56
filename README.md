@@ -12,4 +12,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrogDog56&theme=radical)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=FrogDog56.FrogDog56)
+![](https://visitor-badge.laobi.icu/badge?page_id=FrogDog56.Hecks.exe)
